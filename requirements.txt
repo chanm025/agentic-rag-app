@@ -1,0 +1,11 @@
+streamlit 
+crewai 
+langchain 
+langchain-core
+langchain-groq
+tavily-python
+tavily
+python-dotenv
+sentence-transformers
+faiss-cpu
+langchain-openai
